@@ -12,6 +12,8 @@ Image type | PD | NPD | Total
 DaT scan | 590 | 330 | 920
 MRI | 32706 | 10381 | 43087
 
+More information on the dataset can be found [here](https://www.worldscientific.com/doi/abs/10.1142/S0218213018500112).
+
 If you plan to use this dataset in your research, please cite:
 
 <pre>
@@ -26,3 +28,6 @@ If you plan to use this dataset in your research, please cite:
   publisher={World Scientific}
 }
 </pre>
+
+This dataset has been used in the following research studies:
+[1](https://link.springer.com/article/10.1007/s40747-017-0064-6), [2](https://link.springer.com/chapter/10.1007/978-3-319-65172-9_33), [3](https://www.worldscientific.com/doi/abs/10.1142/S0218213018500112), [4](https://ieeexplore.ieee.org/abstract/document/8280975).
