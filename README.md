@@ -1,7 +1,7 @@
 # The NTUA Parkinson Dataset
 
 > **Note**:  
-> The dataset is hosted in a [separate git repository](https://git.islab.ntua.gr/thanos/ntua_parkinson). Follow the link to see in structions on how to download the dataset.
+> The dataset is hosted in a [separate git repository](https://github.com/ails-lab/ntua-parkinson-dataset). Follow the link to see in structions on how to download the dataset.
 
 This dataset currently consists of MRI and DaT Scan examinations from a total of 78 individuals. Out of those 55 are suffering from Parkinson's Disease (PD), while 23 serve as normal control subjects (NPD).
 
