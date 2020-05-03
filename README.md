@@ -31,3 +31,8 @@ If you plan to use this dataset in your research, please cite:
 
 This dataset has been used in the following research studies:
 [1](https://link.springer.com/article/10.1007/s40747-017-0064-6), [2](https://link.springer.com/chapter/10.1007/978-3-319-65172-9_33), [3](https://www.worldscientific.com/doi/abs/10.1142/S0218213018500112), [4](https://ieeexplore.ieee.org/abstract/document/8280975).
+
+
+### Important Note
+
+The original dicom images are **not** available as they contain some sensitive information in the form of metadata. To process the dicom files and anonymize them, the [thicom](https://github.com/djib2011/thicom) package was developed.
